@@ -1,0 +1,7 @@
+[project]
+name = "genesis-base"
+version = "0.1.0"
+description = "Genesis base component"
+dependencies = [
+    "genesis-base",
+]
